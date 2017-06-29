@@ -6,6 +6,8 @@ This repository is for showing how Git and GitHub work
 
 This is for the Udemy course.
 Also changed.
+more changes.
+even more changes.
 
 ## Purpose
 
