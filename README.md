@@ -9,6 +9,7 @@ Also changed.
 
 ## Purpose
 
+As stated, the main purpose is to provide simple examples
 Sample website with plenty of files for demos
 
 ## Deployment
