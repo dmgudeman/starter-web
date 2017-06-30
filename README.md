@@ -2,6 +2,7 @@ adding a line Adding even more stuff
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
+emergency fix after stash
 
 ## Introduction
 
