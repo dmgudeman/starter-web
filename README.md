@@ -21,7 +21,7 @@ Sample website with plenty of files for demos
 
 please fork and contribute
 
-2014 Git.training
+2014 Git.training all rights reserved
 
 
 Thanks git
